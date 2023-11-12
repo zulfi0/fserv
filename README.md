@@ -5,6 +5,12 @@ fserv is a simple flask aplication server
 * HTTP method: GET, POST, HEAD
 * Redirection, also support changing the redirect location on the fly (prompted).
 # 
+# Installation
+grab this repository and run:
+```bash
+python3 -m pip install flask
+```
+#
 ### Available options
 ```bash
 fserv -h

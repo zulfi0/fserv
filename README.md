@@ -37,11 +37,13 @@ turn on `-r` switch and if you want to change the redirect code use `-c` switch 
 it will spawn a prompt so you can change the redirect to anywhere without re run the script.
 to redirect a client simply by adding the token to the url, for example:
 
-![image](https://github.com/zulfi0/fserv/assets/68773572/0eff00d3-64ac-4fb5-b310-d7d7dfe20a1a)
+![image](https://github.com/zulfi0/fserv/assets/68773572/5a1c0e7f-119d-4bc0-be30-5d2e081d35ec)
+
 
 then acces `http://127.0.0.1:8000/99999ebcfdb78df077ad2727fd00969f` will redirect you to https://google.com/.
 
 also you can add redirect location and list the token.
 
-![image](https://github.com/zulfi0/fserv/assets/68773572/343a6d7f-c38d-476c-a7b7-d642807b4339)
+![image](https://github.com/zulfi0/fserv/assets/68773572/de722672-d68d-4070-8927-916c8c845b66)
+
 
